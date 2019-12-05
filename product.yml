@@ -65,3 +65,5 @@ eureka:
   instance:
     instance-id: ${spring.application.name}:${server.port} #microservice-product:8001
     prefer-ip-address: true
+emp:
+  name: zhangsan
